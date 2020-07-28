@@ -71,13 +71,13 @@ img
     margin-top : 100px;
 }
 
-.semi_container
+.card_container
 {
     display : flex;
     justify-content : space-between;
     align-items : center;
 
-    width: 500px;
+    width: 450px;
     height: 70px;
     background-color: white;
 
