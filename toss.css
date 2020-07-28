@@ -4,9 +4,9 @@
 
 .b_font
 {
-    font-size : 42px;
+    font-size : 45px;
     font-family : 'Spoqa Han Sans';
-    font-weight : 700;
+    font-weight : 600;
     position : relative;
     
     margin-left : 50px;
@@ -16,7 +16,7 @@
 
 .s_font
 {
-    font-size : 16px;
+    font-size : 18px;
     font-family : 'Spoqa Han Sans';
     position : relative;
 
@@ -27,7 +27,7 @@
 
 .s2_font
 {
-    font-size : 16px;
+    font-size : 18px;
     font-family : 'Spoqa Han Sans';
     position : relative;
     color : blue;
