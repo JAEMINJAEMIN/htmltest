@@ -1,7 +1,7 @@
 *{
     font-family: 'Spoqa Han Sans', 'Sans-serif'; 
 }
-
+/* -------------- font definition -------------- */
 .b_font
 {
     font-size : 45px;
@@ -52,7 +52,6 @@ img
 {
     padding-right : 90px;
     padding-top : 4px;
-
 }
 
 .money_box
